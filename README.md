@@ -16,17 +16,11 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
-
 > As a soccer analyst, <br> 
 > I want to document every win of the Champions League , <br> 
 > so that I can educate new genertions of fans. 
 
-## Dataset 
-
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
-
-Example: 
+## Dataset  
 
 Dataset: https://www.kaggle.com/datasets/thesardauna/uefa-champions-league-data-19552021
 - **Winner** (String) - name of the club that won 
@@ -34,9 +28,7 @@ Dataset: https://www.kaggle.com/datasets/thesardauna/uefa-champions-league-data-
 
 ## UML Diagram 
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
-
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![UML Diagram for my project](UML.png) 
 
 ## Description 
 
